@@ -14,9 +14,9 @@ disableKinds = ["taxonomy", "term"]
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
+     { email = "mailto:hello@your_domain.com"},
     # { link = "https://link-to-some-website.com/" },
-    # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" }
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
     # { bluesky = "https://bsky.app/profile/username" },
@@ -57,6 +57,9 @@ disableKinds = ["taxonomy", "term"]
     # { whatsapp = "https://wa.me/phone-number" },
     # { x = "https://x.com/username" },
     # { youtube = "https://youtube.com/username" },
+    # Custom links
+    { font-awesome = { href = "https://github.com/jpanther/lynx", text = "GitHub Project" } },
+    { facebook = { href = "https://github.com/jpanther/lynx", text = "asdasdasd Project" } }
   ]
 
 [module]
