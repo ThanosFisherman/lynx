@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
     name = "Thanos Psaridis"
-    headline = "I'm Thanos (aka Thanos Fisherman), a Software Engineer currently exploring generative art and game development. My code is always fresh, handmade, sustainable, organic, free-range, grass-fed, all-natural, and of course bLaZiNgLy Fast!!! :rocket:"
+    headline = "I'm Thanos (aka Thanos Fisherman), a Software Engineer currently exploring generative art and game development. My code is always fresh, handmade, sustainable, free-range, grass-fed, all-natural, memory-safe :lock:, and of course bLaZiNgLy Fast!!! :rocket:"
     image = "images/thanos_sunset_256.jpg"  # path relative to static directory
 
   links = [
