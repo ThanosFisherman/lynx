@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
     name = "Thanos Psaridis"
-    headline = "I'm Thanos (aka Thanos Fisherman), a Software Engineer currently exploring generative art and game development. My code is always fresh, handmade, sustainable, free-range, grass-fed, all-natural, memory-safe :lock:, and of course bLaZiNgLy Fast!!! :rocket:"
+    headline = "I'm Thanos (aka Thanos Fisherman), a Software Engineer currently exploring generative art and game development. I code mostly in Java, Kotlin, and a tiny bit of C/C++"
     image = "images/thanos_sunset_256.jpg"  # path relative to static directory
 
   links = [
@@ -58,14 +58,15 @@ disableKinds = ["taxonomy", "term"]
     # { youtube = "https://youtube.com/username" },
     # Custom links
     { github = { href = "https://github.com/ThanosFisherman", text = "Code" } },
-    { soundcloud = { href = "https://soundcloud.com/thanosfisherman", text = "Music" } },
     { instagram = { href = "https://www.instagram.com/code.artifacts", text = "Art" } },
+    { soundcloud = { href = "https://soundcloud.com/thanosfisherman", text = "Music" } },
     { linkedin = { href = "https://www.linkedin.com/in/thanosfisherman", text = "Serious Pro" } },
-    { revolut = { href = "http://revolut.me/athana57z", text = "Money" } },
+    { kofi-colored = { href = "https://ko-fi.com/thanosfisherman", text = "Money" } },
     { paypal = { href = "https://paypal.me/ThanosPsaridis", text = "More Money" } },
-    { kofi = { href = "https://ko-fi.com/thanosfisherman", text = "Even More Money" } },
+    { revolut = { href = "http://revolut.me/athana57z", text = "Even More Money" } },  
     { email = "mailto:psaridis@gmail.com"}
-    #{ font-awesome = { href = "https://github.com/jpanther/lynx", text = "GitHub Project" } },
+    # { kofi = { href = "https://ko-fi.com/thanosfisherman", text = "Even More Money" } },
+    # { font-awesome = { href = "https://github.com/jpanther/lynx", text = "GitHub Project" } },
   ]
 
 [module]

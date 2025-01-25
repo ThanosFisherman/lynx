@@ -11,9 +11,12 @@
   background: rgb(70, 124, 235);
   background: linear-gradient(
     90deg,
-    rgba(111, 159, 233, 1) 0%,
+    rgba(114, 165, 242, 1) 0%,
     rgba(70, 124, 235, 1) 100%
   );
+}
+.link-kofi-colored {
+  background: rgb(70, 124, 235);
 }
 .link-paypal {
   background: rgb(1, 150, 218);
